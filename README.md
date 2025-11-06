@@ -87,11 +87,11 @@ Organize APIs into categories for better navigation:
 Here’s an example of how your settings.json file might look:
 ```json
 {
-  "name": "Rynn Api's",
-  "version": "Rynn UI",
+  "name": "JunzzXD シ゚ Api's",
+  "version": "Junzz 1.0.0",
   "description": "Simple and Easy-to-Use API Documentation",
   "header": {
-    "status": "Online!",
+    "status": "Online",
     "imageSrc": [
       "https://media4.giphy.com/media/l0Iy33dWjmywkCnNS/giphy.gif?cid=6c09b952p3mt40j1mgznfi9rwwtccbjl7mtc2kvfugymeinr&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g"
     ],
@@ -102,16 +102,16 @@ Here’s an example of how your settings.json file might look:
     }
   },
   "apiSettings": {
-    "creator": "Rynn"
+    "creator": "JunzzXD シ゚"
   },
   "links": [
     {
       "name": "Source Code",
-      "url": "https://github.com/rynxzyy/Rynn-UI"
+      "url": "https://github.com/Juna201"
     },
     {
       "name": "Contact Me",
-      "url": "https://wa.me/6285173370004"
+      "url": "https://wa.me/6281264279690"
     }
   ],
   "categories": [
