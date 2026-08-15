@@ -1,8 +1,10 @@
 # Rynn UI
 
-![Layout](https://files.catbox.moe/tot5d8.png)
+![Layout](https://files.catbox.moe/9qpys9.png)
 
 Rynn UI is a simple and easy-to-use API documentation interface built with Express.js. It allows developers to quickly set up and view API documentation with customizable settings using a `settings.json` file. 
+
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/rynxzyy/Rynn-UI)
 
 ## Features
 - Simple API documentation interface
@@ -39,7 +41,7 @@ Check out a live demo of Rynn UI [here](https://rynnn-ui.vercel.app)
    ```bash
    npm start
    ```
-Your API documentation should now be available at `http://localhost:4000`.
+Your API documentation should now be available at `http://localhost:<PORT>`.
 
 ## Customization
 
